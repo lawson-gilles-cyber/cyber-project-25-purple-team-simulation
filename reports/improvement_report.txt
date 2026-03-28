@@ -1,0 +1,10 @@
+PURPLE TEAM REPORT
+
+Findings:
+- Missing detection for privilege escalation
+
+Improvement:
+- Add detection rule for privilege escalation
+
+Outcome:
+Improved detection coverage
